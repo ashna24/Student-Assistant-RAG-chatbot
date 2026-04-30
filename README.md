@@ -1,4 +1,4 @@
-AI Student Assistant (RAG)
+## AI Student Assistant (RAG)
 
 A Retrieval-Augmented Generation (RAG) system built from scratch. It allows students to chat with their syllabus using Semantic Search.
 
